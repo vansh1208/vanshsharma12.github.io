@@ -728,6 +728,10 @@ p {
     display: block;
   }
 
+  .hero-content {
+    height: 70vh;
+  }
+
   #hero .hero-content h1, p {
   margin-right: 40px;
   }
@@ -822,6 +826,10 @@ p {
     display: block;
   }
 
+  #hero .hero-content {
+    height: 70vh;
+  }
+
   .hero-img-bg .hero-img img {
     max-width: 100%;
     margin: 0px 0px 50px 0px;
@@ -909,6 +917,10 @@ p {
     float: right;
     padding-top: 15px;
     display: block;
+  }
+
+  .hero-content {
+    height: 55vh;
   }
 
   .hero-img-bg .hero-img img {
@@ -1004,6 +1016,10 @@ p {
     font-size: 40px;
   }
 
+  .hero-content {
+    height: 55vh;
+  }
+
   .hero-img-bg .hero-img img {
     max-width: 100%;
     margin: 0px 0px 50px 0px;
@@ -1093,6 +1109,10 @@ p {
 
   .hero-content h1 {
     font-size: 30px;
+  }
+
+  #hero .hero-content {
+    height: 55vh;
   }
 
   .hero-img-bg .hero-img img {
