@@ -936,7 +936,7 @@ p {
 
   #about .div-img-bg {
     padding: 0;
-    max-width: 70%;
+    max-width: 100%;
   }
 
   #about .div-img-bg .about-img img {
@@ -1033,6 +1033,7 @@ p {
 
   #about .div-img-bg {
     padding: 0;
+    max-width: 100%; 
   }
 
   #about .div-img-bg .about-img img {
@@ -1128,6 +1129,7 @@ p {
 
   #about .div-img-bg {
     padding: 0;
+    max-width: 100%;
   }
 
   #about .div-img-bg .about-img img {
